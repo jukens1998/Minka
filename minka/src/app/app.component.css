@@ -1,0 +1,19 @@
+
+#pcoin{
+    font-size: 104%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#dinero{
+    font-size: 330%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+    
+  
+}
+
+#hipster{
+    margin-top:15px;
+}
