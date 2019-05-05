@@ -15,13 +15,13 @@
 }
 
 #hipster{
-    margin-top:4%;
+    margin-top:3%;
 }
-#title{
-    margin-top:10%;
-    
-}
+
 #texto{
     font-size: 3.5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium';
+}
+#contenido{
+    margin-top:6%;
 }
