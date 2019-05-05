@@ -1,27 +1,13 @@
-
-#pcoin{
-    font-size: 111%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#pcoin {
+  font-size: 111%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-#dinero{
-    font-size: 330%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
+#dinero {
+  font-size: 330%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
-    
-  
 }
 
-#hipster{
-    margin-top:3%;
-}
-
-#texto{
-    font-size: 3.5rem;
-    font-family: 'Franklin Gothic Medium';
-}
-#contenido{
-    margin-top:6%;
-}
